@@ -1,0 +1,29 @@
+p{
+   padding: 1px;
+   margin: 1px;
+   border: 1px; 
+} 
+div {
+    background-color: #dde0e3; 
+    padding: 1px;
+}
+h1{
+    padding: 50px;
+    margin: 50px;
+    border: 5px solid black;
+    
+    }
+em{
+    padding: 1px;
+    margin: 1px;
+    border: 1px;
+}
+strong{
+    padding: 1px;
+    margin: 1px;
+    border: 1px;
+}
+span{
+    background-color: #b2d6ff;
+    font-size: 30px;
+}
